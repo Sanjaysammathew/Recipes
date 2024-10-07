@@ -1,1 +1,1 @@
-# Recipes
+This a Recipe Website .In Html i used anchoring tag ,list tag,image tag.when you click one of the links it direct to the other html page.we have to add css later.Right now we made this website using HTML only. 
